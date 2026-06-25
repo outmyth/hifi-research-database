@@ -1,4 +1,4 @@
-# Vincent HiFi Research Database (VHRD)
+# HiFi Research Database (HRD)
 
 A personal HiFi research database for tracking classic headphones, DACs, amplifiers, market prices, buying notes, and long-term collector value.
 
