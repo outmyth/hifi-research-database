@@ -12,6 +12,19 @@ This project is designed as a living Markdown knowledge base rather than a stati
 - System synergy with Vincent's current gear
 - Genre fit, especially metal, progressive rock, post-punk, jazz, and classic rock
 
+## Start Here
+
+Use [`INDEX.md`](INDEX.md) as the main navigation page.
+
+Key entry points:
+
+- [`system-reference.md`](system-reference.md) — Vincent's desktop and portable system baseline
+- [`portable-reference.md`](portable-reference.md) — portable sources and IEM evaluation context
+- [`vincent-top20.md`](vincent-top20.md) — collector priority list
+- [`watchlist.md`](watchlist.md) — active used-market targets
+- [`workflows/buying-evaluation-workflow.md`](workflows/buying-evaluation-workflow.md) — listing evaluation workflow
+- [`workflows/cable-and-adapter-workflow.md`](workflows/cable-and-adapter-workflow.md) — balanced cable / adapter safety workflow
+
 ## Core Workflow
 
 When evaluating a listing, update the relevant model file and market log:
@@ -29,9 +42,12 @@ models/              Individual product files
 comparisons/         Direct model-vs-model comparisons
 market/              Dated market notes and listing logs
 templates/           Reusable Markdown templates
+workflows/           Buying and cable/adapter workflows
 wishlist.md          Long-term targets
 watchlist.md         Active deal watch list
 vincent-top20.md     Personal collector ranking
+INDEX.md             Main navigation page
+TODO.md              Future work and missing data
 ```
 
 ## Scoring Philosophy
@@ -46,4 +62,4 @@ The database is not a generic audiophile ranking. It prioritizes:
 
 ## Status
 
-Initial version created on 2026-06-25.
+Initial v0.1 skeleton created on 2026-06-25 and expanded with core headphones, IEMs, sources, amplifiers, comparisons, watchlist, workflows, and index pages.
