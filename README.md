@@ -18,6 +18,7 @@ Use [`INDEX.md`](INDEX.md) as the main navigation page.
 
 Key entry points:
 
+- [`profiles/vincent-hifi-user-profile.md`](profiles/vincent-hifi-user-profile.md) — top-level personal listening, system, and buying profile
 - [`system-reference.md`](system-reference.md) — Vincent's desktop and portable system baseline
 - [`portable-reference.md`](portable-reference.md) — portable sources and IEM evaluation context
 - [`vincent-top20.md`](vincent-top20.md) — collector priority list
@@ -38,6 +39,7 @@ When evaluating a listing, update the relevant model file and market log:
 ## Directory Map
 
 ```text
+profiles/            Personal listening and buying profile
 models/              Individual product files
 comparisons/         Direct model-vs-model comparisons
 market/              Dated market notes and listing logs
@@ -62,4 +64,4 @@ The database is not a generic audiophile ranking. It prioritizes:
 
 ## Status
 
-Initial v0.1 skeleton created on 2026-06-25 and expanded with core headphones, IEMs, sources, amplifiers, comparisons, watchlist, workflows, and index pages.
+Initial v0.1 skeleton created on 2026-06-25 and expanded with core headphones, IEMs, sources, amplifiers, comparisons, watchlist, workflows, index pages, and Vincent's personal HiFi profile.
