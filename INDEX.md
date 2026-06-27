@@ -100,6 +100,10 @@ This is the main navigation page for Vincent HiFi Research Database.
 
 - [2026 Q2 Market Notes](market/2026-q2.md)
 
+## Market Sources
+
+- [HiFi Haven Emporium](market/sources/hifihaven-emporium.md)
+
 ## Templates
 
 - [Model Template](templates/model-template.md)
