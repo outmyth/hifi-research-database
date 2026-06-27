@@ -5,6 +5,7 @@ This is the main navigation page for Vincent HiFi Research Database.
 ## Core Pages
 
 - [README](README.md)
+- [Vincent HiFi User Profile](profiles/vincent-hifi-user-profile.md)
 - [System Reference](system-reference.md)
 - [Portable Reference](portable-reference.md)
 - [Vincent Top 20](vincent-top20.md)
