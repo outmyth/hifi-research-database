@@ -21,6 +21,8 @@ Use available sources when current pricing matters:
 - Audiogon
 - eBay sold listings
 - Facebook Marketplace / local listings
+- Reddit AVexchange
+- HiFi Haven Emporium
 
 Record price into the appropriate `market/YYYY-qX.md` file if useful.
 
@@ -36,7 +38,20 @@ Check:
 - Voltage and transformer needs for Japanese gear
 - Electrostatic bias/energizer compatibility
 
-## Step 4: System Fit
+## Step 4: Seller / Platform Risk
+
+For forum-style marketplaces such as Head-Fi, Reddit AVexchange, and HiFi Haven Emporium, check:
+
+- Seller account age
+- Feedback / transaction history
+- Post count and community activity
+- Whether listing is active or completed
+- Timestamp and last edit
+- Payment method and buyer protection
+- Shipping responsibility and insurance
+- Whether photos include handwritten timestamp or username
+
+## Step 5: System Fit
 
 Compare against:
 
@@ -46,7 +61,7 @@ Compare against:
 - Chord technical reference
 - Existing Grado/Audeze/Koss/Stax roles
 
-## Step 5: Vincent Score
+## Step 6: Vincent Score
 
 Score using:
 
@@ -57,7 +72,7 @@ Score using:
 - Metal fit: 10
 - System synergy: 10
 
-## Step 6: Decision
+## Step 7: Decision
 
 Use one of:
 
@@ -67,7 +82,7 @@ Use one of:
 - C / Pass unless special
 - D / Avoid
 
-## Step 7: Update Database
+## Step 8: Update Database
 
 If relevant:
 
